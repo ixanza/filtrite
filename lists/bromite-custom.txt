@@ -1,0 +1,34 @@
+# U-block
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+
+# Easylist
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+
+# Peter Lowe’s Ad and tracking server list
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
+# ABPIndo
+https://github.com/ABPindo/indonesianadblockrules/raw/master/subscriptions/abpindo.txt
+
+# Adguard URL Tracking List
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+
+# Online Malicious URL Blocklist
+https://malware-filter.pages.dev/urlhaus-filter-online.txt
+
+# Fanboy’s Annoyance
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+
+# uBlock filters – Annoyances
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+
+# blockyoux
+https://ceadd.ca/blockyoux.txt
+
+# Actually Legitimate URL Shortener Tool
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
